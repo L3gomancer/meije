@@ -1,27 +1,7 @@
 # meije
 
-A simple Javascript runner game for a project at @mmibdx, built with Phaser Framework and designed with Hexels.
+A simple Javascript runner game for a project at @mmibdx  
+Built with Phaser and Hexels  
 
-## Play it online here : www.mathieudebit.com/meije
+No longer available at www.mathieudebit.com/meije
 
-### Development: 
-@vgalmand 
-@MathieuDebit
-
-### Design: 
-@vgalmand 
-@YassinLamtalsi
-
-### Game design:
-@RJougla
-@gg_gix
-@MarionTajan31
-
-### With the help of:
-@arnaudlevy 
-@Alex_Benoit_ 
-Florent Michel
-@Lucas_Bigot 
-
-### Original Soundtrack:
-Adrien Gesta
